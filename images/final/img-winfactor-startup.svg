@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="680" viewBox="0 0 425 680">
+    <defs>
+        <linearGradient id="72shn1iqka" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#070707" stop-opacity=".1"/>
+            <stop offset="100%" stop-opacity=".4"/>
+        </linearGradient>
+        <linearGradient id="qo9qwfm3ld" x1="50%" x2="50%" y1="0%" y2="104.252%">
+            <stop offset="0%" stop-color="#FF5A5A"/>
+            <stop offset="100%" stop-color="#D1302D"/>
+        </linearGradient>
+        <linearGradient id="7jf681ghjg" x1="50%" x2="50%" y1="1.888%" y2="104.252%">
+            <stop offset="0%" stop-color="#36F1E9"/>
+            <stop offset="100%" stop-color="#14B3A4"/>
+        </linearGradient>
+        <linearGradient id="dsxfvozr9j" x1="50%" x2="50%" y1="0%" y2="104.252%">
+            <stop offset="0%" stop-color="#FFD25A"/>
+            <stop offset="100%" stop-color="#EEB43C"/>
+        </linearGradient>
+        <linearGradient id="rp1phr9dwm" x1="50%" x2="50%" y1="0%" y2="104.252%">
+            <stop offset="0%" stop-color="#3FF23E"/>
+            <stop offset="50.13%" stop-color="#3BD01F"/>
+            <stop offset="100%" stop-color="#38AD00"/>
+        </linearGradient>
+        <linearGradient id="ui38p0rylp" x1="50%" x2="50%" y1="0%" y2="104.252%">
+            <stop offset="0%" stop-color="#63C9F4"/>
+            <stop offset="100%" stop-color="#239FD4"/>
+        </linearGradient>
+        <linearGradient id="fauf0c2i8s" x1="50%" x2="50%" y1="5.195%" y2="104.252%">
+            <stop offset="0%" stop-color="#FD9E42"/>
+            <stop offset="100%" stop-color="#E9821E"/>
+        </linearGradient>
+        <linearGradient id="mqwromtndv" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#05AA8F"/>
+            <stop offset="100%" stop-color="#00E6C1"/>
+        </linearGradient>
+        <linearGradient id="7mcd1h8jay" x1="50%" x2="50%" y1="5.195%" y2="104.252%">
+            <stop offset="0%" stop-color="#4D92EB"/>
+            <stop offset="55.002%" stop-color="#307ADB"/>
+            <stop offset="100%" stop-color="#1867CD"/>
+        </linearGradient>
+        <filter id="wodrbjusbb" width="132.6%" height="133.3%" x="-16.3%" y="-11.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="dob0k34p4e" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="i15g6r76vh" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="i66gbirmsk" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="1kksvxei8n" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="tjlebs2qdq" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="8kwuqgelot" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <filter id="euz3083gmw" width="132.6%" height="132.6%" x="-16.3%" y="-11.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.543952142 0"/>
+        </filter>
+        <circle id="6socmvj3uf" cx="121.5" cy="186.5" r="21.5"/>
+        <circle id="l5ctbnc94i" cx="121.5" cy="114.5" r="21.5"/>
+        <circle id="4up6wxnlml" cx="122.5" cy="45.5" r="21.5"/>
+        <circle id="8ruuvwkhho" cx="121.5" cy="495.5" r="21.5"/>
+        <circle id="mkuuwqtctr" cx="121.5" cy="257.5" r="21.5"/>
+        <circle id="tb26poplgu" cx="121.5" cy="411.5" r="21.5"/>
+        <circle id="hvuvhkmz8x" cx="121.5" cy="578.5" r="21.5"/>
+        <ellipse id="fmw6xucpkc" cx="121.5" cy="334" rx="21.5" ry="21"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <path fill="url(#72shn1iqka)" d="M48.12 221l3.053 63h141.014l-2.49-63H48.121zm-.871-18h141.737l-3.28-83 2.195-28L261 652l-28.22 4-6.907-48H66.868L69 652H33.376l1.525-429.5.048-1.5H32.5l2.736-8.956L38 126l5.78 5.375L47.248 203zm4.505 93l3.1 64h140.337l-2.53-64H51.754zm3.972 82l2.907 60h142.783l-4.332-30.112L195.902 378H55.726zm3.78 78l2.857 59h150.13l-8.488-59h-144.5zm4.02 83l2.47 51h157.288l-7.337-51H63.526z" opacity=".446" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)"/>
+                                <g>
+                                    <path fill="#A3BA69" d="M43.667 47L55.354 47 23.063 656 0 656z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)"/>
+                                    <path fill="#7E9545" d="M22.141 656L53.822 47 64.579 47 41.054 653.24" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)"/>
+                                    <path fill="#52C1D5" d="M46.988 0L58.675 0 23.063 656 0 656z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)"/>
+                                    <path fill="#287D8D" d="M22.141 656L56.586 0 67.343 0 41.054 653.24" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)"/>
+                                </g>
+                                <g>
+                                    <path fill="#52C1D5" d="M44.319 0L56.005 0 23.063 656 0 656z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) matrix(-1 0 0 1 241.71 0)"/>
+                                    <path fill="#287D8D" d="M22.141 656L56.005 0 66.762 0 41.054 652.32" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) matrix(-1 0 0 1 241.71 0)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M165.138 16.323L163.293 0 1.845 0 0 16.323z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(38.747 566.496)"/>
+                                <path fill="#287D8D" d="M165.138 24.965L165.138 15.752 0 15.752 0 24.965z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(38.747 566.496)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M163.293 19.348L161.372 0 1.921 0 0 19.348z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(39.67 484.183)"/>
+                                <path fill="#287D8D" d="M163.293 26.719L163.293 18.427 0 18.427 0 26.719z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(39.67 484.183)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M156.835 19.348L153.894 0 2.941 0 0 19.348z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(42.438 402.027)"/>
+                                <path fill="#287D8D" d="M156.835 27.64L156.835 19.348 0 19.348 0 27.64z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(42.438 402.027)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M147.609 17.505L144.842 0 2.768 0 0 17.505z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(47.05 325.557)"/>
+                                <path fill="#287D8D" d="M147.609 25.797L147.609 17.505 0 17.505 0 25.797z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(47.05 325.557)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M147.609 16.584L143.919 0 3.69 0 0 16.584z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(47.05 248.165)"/>
+                                <path fill="#287D8D" d="M147.609 24.876L147.609 16.584 0 16.584 0 24.876z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(47.05 248.165)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M142.074 15.663L137.6 0 4.474 0 0 15.663z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(49.818 173.537)"/>
+                                <path fill="#287D8D" d="M142.074 23.033L142.074 15.663 0 15.663 0 23.033z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(49.818 173.537)"/>
+                            </g>
+                            <g>
+                                <path fill="#52C1D5" d="M135.616 81.82L130.465 68 5.152 68 0 81.82zM132.197 9.989L126.727.169 10.636.169 5.166 9.989z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(53.508 35.83)"/>
+                                <path fill="#287D8D" d="M135.616 89.191L135.616 81.82 0 81.82 0 89.191zM132.197 17.36L127.799 9.989 5.166 9.989 5.166 17.36z" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699) translate(53.508 35.83)"/>
+                            </g>
+                        </g>
+                        <text fill="#FFF" font-family="Poppins-Bold, Poppins" font-size="13" font-weight="bold" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="51.321" y="676">WINFACTOR</tspan> <tspan x="131.583" y="676" font-family="Poppins-Regular, Poppins" font-weight="normal"> Startups</tspan>
+                        </text>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#wodrbjusbb)" xlink:href="#fmw6xucpkc"/>
+                            <use fill="url(#qo9qwfm3ld)" xlink:href="#fmw6xucpkc"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#dob0k34p4e)" xlink:href="#6socmvj3uf"/>
+                            <use fill="url(#7jf681ghjg)" xlink:href="#6socmvj3uf"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#i15g6r76vh)" xlink:href="#l5ctbnc94i"/>
+                            <use fill="url(#dsxfvozr9j)" xlink:href="#l5ctbnc94i"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#i66gbirmsk)" xlink:href="#4up6wxnlml"/>
+                            <use fill="url(#rp1phr9dwm)" xlink:href="#4up6wxnlml"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#1kksvxei8n)" xlink:href="#8ruuvwkhho"/>
+                            <use fill="url(#ui38p0rylp)" xlink:href="#8ruuvwkhho"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#tjlebs2qdq)" xlink:href="#mkuuwqtctr"/>
+                            <use fill="url(#fauf0c2i8s)" xlink:href="#mkuuwqtctr"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#8kwuqgelot)" xlink:href="#tb26poplgu"/>
+                            <use fill="url(#mqwromtndv)" xlink:href="#tb26poplgu"/>
+                        </g>
+                        <g transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <use fill="#000" filter="url(#euz3083gmw)" xlink:href="#hvuvhkmz8x"/>
+                            <use fill="url(#7mcd1h8jay)" xlink:href="#hvuvhkmz8x"/>
+                        </g>
+                        <text fill="#76560F" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="117" y="122">7</tspan>
+                        </text>
+                        <text fill="#2A7303" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="117" y="53">8</tspan>
+                        </text>
+                        <text fill="#0B6C64" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="116" y="194">6</tspan>
+                        </text>
+                        <text fill="#804A06" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="116" y="265">5</tspan>
+                        </text>
+                        <text fill="#7B1211" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="115" y="342">4</tspan>
+                        </text>
+                        <text fill="#0A6A5A" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="116" y="419">3</tspan>
+                        </text>
+                        <text fill="#044E6D" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="116" y="503">2</tspan>
+                        </text>
+                        <text fill="#062043" font-family="Poppins-SemiBold, Poppins" font-size="20" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="118" y="586">1</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="221" y="111">Growth</tspan>
+                        </text>
+                        <text fill="#043755" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="213" y="45">Fund Raise</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="226" y="183">Customers</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="232" y="250">Distribution</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="240" y="332">Engineering </tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="247" y="410">Product Management </tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="260" y="492">Domain Insights</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-SemiBold, Poppins" font-size="16" font-weight="500" transform="translate(-879 -1103) translate(0 900) translate(180 203) translate(699)">
+                            <tspan x="272" y="572">Funding</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
